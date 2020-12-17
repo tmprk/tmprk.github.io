@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/hello-world/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/side-project/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/test/</loc>
+    <loc>/stickers-for-macos/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
