@@ -6,10 +6,20 @@
     <description>Recent content on Timothy Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Mac Apps List</title>
+      <link>/my-mac-apps-list/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/my-mac-apps-list/</guid>
+      <description>This list contains mac apps that I actually find useful. A lot of them are free + open-source alternatives that work just as well as their paid counterparts. I tried to limit the # of electron based apps since my machine (Base MBP 2015) can’t really run them well.
+They are in no particular order; I will clean up the presentation by adding a description of what they do, a link for where to get it, and maybe sections to group them by category or cost.</description>
+    </item>
     
     <item>
       <title>Applying to Jobs: Tips from an Unemployed Person</title>
