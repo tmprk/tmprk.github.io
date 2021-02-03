@@ -43,136 +43,137 @@
 
   
   <style>
-body {
-  min-width: 300px;
-}
+    body {
+      min-width: 300px;
+    }
 
-.container {
-  max-width: 1050px;
-}
+    .container {
+      max-width: 1050px;
+    }
 
-.custom-navbar {
-  margin-bottom: 1em;
-  height: 60px;
-}
+    .custom-navbar {
+      margin-bottom: 1em;
+      height: 60px;
+    }
 
-.custom-navbar a {
-  display: inline-block; 
-  padding: 18px 0;
-  margin-right: 1em; 
-  font-weight: bold;
-}
+    .custom-navbar a {
+      display: inline-block;
+      padding: 18px 0;
+      margin-right: 1em;
+      font-weight: bold;
+    }
 
-.custom-navbar a:hover,
-.custom-navbar a:focus {
-  text-decoration: none; 
-}
+    .custom-navbar a:hover,
+    .custom-navbar a:focus {
+      text-decoration: none;
+    }
 
-article h1 {
-  margin-bottom: 25px;
-  font-size: 1.5em;
-  color: rgba(255, 255, 255, 0.75);
-}
+    article h1 {
+      margin-bottom: 25px;
+      font-size: 1.5em;
+      color: rgba(255, 255, 255, 0.75);
+    }
 
-@media print {
-  .custom-navbar {
-    display: none;
-  }
-}
+    @media print {
+      .custom-navbar {
+        display: none;
+      }
+    }
 
-article {
-  padding-bottom: 1em;
-}
+    article {
+      padding-bottom: 1em;
+    }
 
-img {
-  max-width: 100%;
-}
+    img {
+      max-width: 100%;
+    }
 
+    
+    body {
+      background-color: #191d21;
+    }
+    
 
-body {
-  background-color: #191d21;
-}
+    
+    body {
+      color: rgba(255, 255, 255, 0.75);
+    }
+    
 
+    
+    a {
+      color: #007bff;
+    }
+    
 
+    
+    a:hover,
+    a:focus {
+      color: #0056b3;
+    }
+    
 
-body {
-  color: rgba(255, 255, 255, 0.75);
-}
+    
+    .custom-navbar {
+      background-color: #282c30;
+    }
+    
 
+    
+    .custom-navbar a {
+      color: rgba(255, 255, 255, 0.75);
+    }
+    
 
+    
+    .custom-navbar a:hover,
+    .custom-navbar a:focus {
+      color: rgba(255, 255, 255, 1);
+    }
+    
 
-a {
-  color: #007bff;
-}
+    
+    pre {
+      display: block;
+      padding: 9.5px;
+      word-break: break-all;
+      word-wrap: break-word;
+      background-color: #f5f5f5;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
 
+    pre code {
+      padding: 0;
+      font-size: inherit;
+      color: inherit;
+      white-space: pre-wrap;
+      background-color: transparent;
+      border: none;
+      border-radius: 0;
+    }
 
+    code {
+      padding: 2px 4px;
+      color: inherit;
+      background-color: #f5f5f5;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: .9em;
+    }
+    
 
-a:hover,
-a:focus {
-  color: #0056b3;
-}
-
-
-
-.custom-navbar {
-  background-color: #282c30;
-}
-
-
-
-.custom-navbar a {
-  color: rgba(255, 255, 255, 0.75);
-}
-
-
-
-.custom-navbar a:hover,
-.custom-navbar a:focus {
-  color: rgba(255, 255, 255, 1);
-}
-
-
-
-pre {
-  display: block;
-  padding: 9.5px;
-  word-break: break-all;
-  word-wrap: break-word;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-pre code {
-  padding: 0;
-  font-size: inherit;
-  color: inherit; 
-  white-space: pre-wrap;
-  background-color: transparent;
-  border: none;
-  border-radius: 0;
-}
-
-code {
-  padding: 2px 4px;
-  color: inherit; 
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: .9em;
-}
-
-
-
-blockquote,
-.blockquote {
-  padding: 10px 20px;
-  margin: 0 0 20px;
-  font-size: 1em;
-  border-left: 5px solid #6c757d;
-}
-
+    
+    blockquote,
+    .blockquote {
+      padding: 10px 20px;
+      margin: 0 0 20px;
+      font-size: 1em;
+      border-left: 5px solid #6c757d;
+    }
+    
 </style>
+
   <script src="https://kit.fontawesome.com/39627536d2.js" crossorigin="anonymous"></script>
   
 </head>
@@ -238,77 +239,79 @@ blockquote,
 
 
 <div class="container">
-  <div class="row card-columns">
-  
     
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/atlasProject2.png" alt="Atlas Mobile for iOS"/>
-        <div class="card-body">
-          <h5 class="card-title">Atlas Mobile for iOS</h5>
-          <p class="card-text">For my undergraduate research project, I developed this iOS application for UCSF to track the longitudinal pain scores of patients. Written in Swift 5 and Xcode 11.0</p>
-          <a class="btn btn-primary" href=https://tmprk.github.io/Atlas-Landing/ target="_blank">Read More</a>
+    <div class="card-deck">
+        
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/atlasProject2.png" alt="Atlas Mobile for iOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">Atlas Mobile for iOS</h5>
+                    <p class="card-text">For my undergraduate research project, I developed this iOS application for UCSF to track the longitudinal pain scores of patients. Written in Swift 5 and Xcode 11.0</p>
+                    <a class="btn btn-primary" href="https://tmprk.github.io/Atlas-Landing/" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/periodic.png" alt="PocketTable for macOS"/>
-        <div class="card-body">
-          <h5 class="card-title">PocketTable for macOS</h5>
-          <p class="card-text">A Periodic table accessible from your macOS Menu Bar. Made to scratch my own itch when taking chemistry. Written in pure Swift.</p>
-          <a class="btn btn-primary" href=https://bitbucket.org/yogurtsake/pockettable/src/master/ target="_blank">Read More</a>
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/periodic.png" alt="PocketTable for macOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">PocketTable for macOS</h5>
+                    <p class="card-text">A Periodic table accessible from your macOS Menu Bar. Made to scratch my own itch when taking chemistry. Written in pure Swift.</p>
+                    <a class="btn btn-primary" href="https://bitbucket.org/yogurtsake/pockettable/src/master/" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/stickers-showcase.png" alt="Sticker Studio for macOS"/>
-        <div class="card-body">
-          <h5 class="card-title">Sticker Studio for macOS</h5>
-          <p class="card-text">A native macOS app to create stickers and easily access them using hotkeys. Written in Swift 5.</p>
-          <a class="btn btn-primary" href=https://github.com/tmprk/Stickers-macOS target="_blank">Read More</a>
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/stickers-showcase.png" alt="Sticker Studio for macOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">Sticker Studio for macOS</h5>
+                    <p class="card-text">A native macOS app to create stickers and easily access them using hotkeys. Written in Swift 5.</p>
+                    <a class="btn btn-primary" href="https://github.com/tmprk/Stickers-macOS" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/plural.png" alt="Plural App for iOS"/>
-        <div class="card-body">
-          <h5 class="card-title">Plural App for iOS</h5>
-          <p class="card-text">Share and save ideas in a Tinder-esque interface. This project won third place at the Congressional App Challenge in 2017.</p>
-          <a class="btn btn-primary" href=https://bitbucket.org/yogurtsake/plural/src/master/ target="_blank">Read More</a>
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/plural.png" alt="Plural App for iOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">Plural App for iOS</h5>
+                    <p class="card-text">Share and save ideas in a Tinder-esque interface. This project won third place at the Congressional App Challenge in 2017.</p>
+                    <a class="btn btn-primary" href="https://bitbucket.org/yogurtsake/plural/src/master/" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/headline.png" alt="Still for macOS"/>
-        <div class="card-body">
-          <h5 class="card-title">Still for macOS</h5>
-          <p class="card-text">Keep track of tasks in your macOS menu bar.</p>
-          <a class="btn btn-primary" href=https://bitbucket.org/yogurtsake/still/src/master/ target="_blank">Read More</a>
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/headline.png" alt="Still for macOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">Still for macOS</h5>
+                    <p class="card-text">Keep track of tasks in your macOS menu bar.</p>
+                    <a class="btn btn-primary" href="https://bitbucket.org/yogurtsake/still/src/master/" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    
-    <div class="col-md-6 col-lg-6 mb-4">
-      <div class="card text-white bg-dark">
-        <img class="card-img-top" src="/hyperlocal.png" alt="Hyperlocal messaging for iOS"/>
-        <div class="card-body">
-          <h5 class="card-title">Hyperlocal messaging for iOS</h5>
-          <p class="card-text">An quick prototype for location/username-based messaging for quick pings using Firebase as a backend.</p>
-          <a class="btn btn-primary" href=https://bitbucket.org/yogurtsake/feasy/src/master/ target="_blank">Read More</a>
+        
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="/hyperlocal.png" alt="Hyperlocal messaging for iOS"/>
+                <div class="card-body">
+                    <h5 class="card-title">Hyperlocal messaging for iOS</h5>
+                    <p class="card-text">An quick prototype for location/username-based messaging for quick pings using Firebase as a backend.</p>
+                    <a class="btn btn-primary" href="https://bitbucket.org/yogurtsake/feasy/src/master/" target="_blank" >Read More</a>
+                </div>
+            </div>
         </div>
-      </div>
+        
     </div>
-    
-  </div>
 </div>
+
     </article>
   </div>
   
