@@ -1,3 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timothy Park</title><link>/</link><description>Recent content on Timothy Park</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>My Mac Apps List</title><link>/my-mac-apps-list/</link><pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate><guid>/my-mac-apps-list/</guid><description>This list contains mac apps that I actually find useful. A lot of them are free + open-source alternatives that work just as well as their paid counterparts. I tried to limit the # of electron based apps since my machine (Base MBP 2015) can’t really run them well.
-They are in no particular order; I will clean up the presentation by adding a description of what they do, a link for where to get it, and maybe sections to group them by category or cost.</description></item><item><title>Sticker Manager for macOS</title><link>/stickers-for-macos/</link><pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate><guid>/stickers-for-macos/</guid><description>Hi, this is one of my first projects that I&amp;rsquo;m comfortable with sharing. Similar to stickers on iMessage, this app allows you to create stickers from screenshots or existing images on the fly.
-It&amp;rsquo;s pretty self explanatory, but there are 3 main components: a sticker manager, editor, and popover. You can edit and view your sticker collections in the manager, cut-out stickers from screen captures using the editor, and easily insert images into any textfield.</description></item><item><title>About Me</title><link>/about/</link><pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate><guid>/about/</guid><description>-- Hi, my name is Timothy and I'm a recent graduate of UC Berkeley. My goal is to design and develop digital products with beautiful user interfaces. I specialize in mobile (iOS) development but I've recently taken a liking to desktop application development, ever since I limited phone use. I mainly use Swift / Cocoa for native apps but also learning web-based technologies too. Feel free to contact me via email or connect via Twitter.</description></item><item><title>Selected Projects</title><link>/projects/</link><pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate><guid>/projects/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy Park</title>
+    <link>/</link>
+    <description>Recent content on Timothy Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Mac Apps List</title>
+      <link>/my-mac-apps-list/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/my-mac-apps-list/</guid>
+      <description>This list contains mac apps that I actually find useful. A lot of them are free + open-source alternatives that work just as well as their paid counterparts. I tried to limit the # of electron based apps since my machine (Base MBP 2015) can’t really run them well.
+They are in no particular order; I will clean up the presentation by adding a description of what they do, a link for where to get it, and maybe sections to group them by category or cost.</description>
+    </item>
+    
+    <item>
+      <title>Sticker Manager for macOS</title>
+      <link>/stickers-for-macos/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/stickers-for-macos/</guid>
+      <description>Hi, this is one of my first projects that I&amp;rsquo;m comfortable with sharing. Similar to stickers on iMessage, this app allows you to create stickers from screenshots or existing images on the fly.
+It&amp;rsquo;s pretty self explanatory, but there are 3 main components: a sticker manager, editor, and popover. You can edit and view your sticker collections in the manager, cut-out stickers from screen captures using the editor, and easily insert images into any textfield.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>-- Hi, my name is Timothy and I&#39;m a recent graduate of UC Berkeley. My goal is to design and develop digital products with beautiful user interfaces. I specialize in mobile (iOS) development but I&#39;ve recently taken a liking to desktop application development, ever since I limited phone use. I mainly use Swift / Cocoa for native apps but also learning web-based technologies too. Feel free to contact me via email or connect via Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Selected Projects</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

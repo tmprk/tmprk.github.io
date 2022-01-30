@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Timothy Park</title><link>/tags/</link><description>Recent content in Tags on Timothy Park</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>mac-apps</title><link>/tags/mac-apps/</link><pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate><guid>/tags/mac-apps/</guid><description/></item><item><title>setup</title><link>/tags/setup/</link><pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate><guid>/tags/setup/</guid><description/></item><item><title>Side-Project</title><link>/tags/side-project/</link><pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate><guid>/tags/side-project/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Timothy Park</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Timothy Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mac-apps</title>
+      <link>/tags/mac-apps/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mac-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>/tags/setup/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side-Project</title>
+      <link>/tags/side-project/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/side-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

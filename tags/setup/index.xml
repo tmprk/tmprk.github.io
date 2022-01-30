@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>setup on Timothy Park</title><link>/tags/setup/</link><description>Recent content in setup on Timothy Park</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml"/><item><title>My Mac Apps List</title><link>/my-mac-apps-list/</link><pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate><guid>/my-mac-apps-list/</guid><description>This list contains mac apps that I actually find useful. A lot of them are free + open-source alternatives that work just as well as their paid counterparts. I tried to limit the # of electron based apps since my machine (Base MBP 2015) can’t really run them well.
-They are in no particular order; I will clean up the presentation by adding a description of what they do, a link for where to get it, and maybe sections to group them by category or cost.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>setup on Timothy Park</title>
+    <link>/tags/setup/</link>
+    <description>Recent content in setup on Timothy Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Mac Apps List</title>
+      <link>/my-mac-apps-list/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/my-mac-apps-list/</guid>
+      <description>This list contains mac apps that I actually find useful. A lot of them are free + open-source alternatives that work just as well as their paid counterparts. I tried to limit the # of electron based apps since my machine (Base MBP 2015) can’t really run them well.
+They are in no particular order; I will clean up the presentation by adding a description of what they do, a link for where to get it, and maybe sections to group them by category or cost.</description>
+    </item>
+    
+  </channel>
+</rss>
