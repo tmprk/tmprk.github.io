@@ -1,0 +1,18 @@
+<div class="container">
+    <!-- <div class="row card-columns"> -->
+    <div class="card-deck">
+        <!-- <div class="card-columns"> -->
+        {{ range $.Site.Data.projects }}
+        <div class="col-md-6 col-lg-6 mb-4">
+            <div class="card text-white bg-dark">
+                <img class="card-img-top" src="{{.Params.Image}}/{{ .imageURL }}" alt="{{ .title }}"/>
+                <div class="card-body">
+                    <h5 class="card-title">{{ .title }}</h5>
+                    <p class="card-text">{{ .description }}</p>
+                    <a class="btn btn-primary" href="{{.projectURL}}" target="_blank" >Read More</a>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>

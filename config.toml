@@ -1,0 +1,76 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Timothy Park"
+theme = "minimal-bootstrap-hugo-theme"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  description = "Blog for Development"
+  contentBackgroundColor = "#191d21"
+  contentTextColor = "rgba(255, 255, 255, 0.75)"
+  contentLinkColor = "#007bff"
+  contentLinkHoverColor = "#0056b3"
+  navbarBackgroundColor = "#282c30"
+  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
+  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
+  wrapperMaxWidth = "800px"
+  customDateFormat = "Jan 2, 2006"
+  customCodeStyle = true
+  customBlockquoteStyle = true
+  showPostSummary = false
+  googleAnalytics = ""
+  cookieConsent = false
+  includeBootstrapJs = true
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconThemeColor = "#ffffff"
+
+  [params.sidebar]
+    # Whether to show the recent posts or not (default: true)
+    # showRecent = false
+
+    # Whether to show the taxonomies or not (default: true)
+    # showTaxonomy = false
+
+    # How many posts to show on the sidebar (Default: 5)
+    # num_recent_posts = 5
+
+  [params.header]
+    # Color scheme for the header (default: "light")
+    # colorScheme = "dark"
+
+  [params.footer]
+    # Color scheme for the footer (default: "light")
+    # colorScheme = "dark"
+
+[menu]
+  [[menu.nav]]
+  name = "Blog"
+  url = "/"
+  weight = 1
+  [[menu.nav]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+  [[menu.nav]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+  [[menu.nav]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
+ [[menu.nav]]
+ name = "Resume"
+ url = "/cv.pdf"
+ weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,26 @@
+{
+  "Project 1": {
+    "title": "Atlas Mobile for iOS",
+    "description": "For my undergraduate research project, I developed this iOS application for UCSF to track the longitudinal pain scores of patients. Written in Swift 5 and Xcode 11.0",
+    "projectURL": "https://tmprk.github.io/Atlas-Landing/",
+    "imageURL": "atlasProject2.png"
+  },
+  "Project 2": {
+    "title": "Sticker Studio for macOS",
+    "description": "A native macOS app to create stickers and easily access them using hotkeys. Written in Swift 5.",
+    "projectURL": "https://github.com/tmprk/Stickers-macOS",
+    "imageURL": "stickers-showcase.png"
+  },
+  "Project 3": {
+    "title": "Idea Swipe for iOS",
+    "description": "Share and save ideas in a Tinder-esque interface. This project won third place at the Congressional App Challenge in 2017.",
+    "projectURL": "https://bitbucket.org/tmprk/plural/src/master/",
+    "imageURL": "plural.png"
+  },
+  "Project 4": {
+    "title": "PocketTable for macOS",
+    "description": "A Periodic table accessible from your macOS Menu Bar. Made to scratch my own itch when taking chemistry. Written in pure Swift.",
+    "projectURL": "https://bitbucket.org/yogurtsake/pockettable/src/master/",
+    "imageURL": "periodic.png"
+  }
+}
