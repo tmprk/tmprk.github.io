@@ -65,6 +65,10 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Projects"
   url = "/projects/"
   weight = 4
+  [[menu.nav]]
+  name = "CV"
+  url = "/cv.pdf/"
+  weight = 5
 
 [markup]
   [markup.goldmark]
