@@ -67,7 +67,7 @@ theme = "minimal-bootstrap-hugo-theme"
   weight = 4
   [[menu.nav]]
   name = "CV"
-  url = "/cv.pdf/"
+  url = "/cv.pdf"
   weight = 5
 
 [markup]
