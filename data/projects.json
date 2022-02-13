@@ -8,7 +8,7 @@
   "Project 2": {
     "title": "PocketTable for macOS",
     "description": "A Periodic table accessible from your macOS Menu Bar. Made to scratch my own itch when taking chemistry. Written in pure Swift.",
-    "projectURL": "https://bitbucket.org/yogurtsake/pockettable/src/master/",
+    "projectURL": "https://bitbucket.org/tmprk/pockettable/src/master/",
     "imageURL": "periodic.png"
   },
   "Project 3": {
