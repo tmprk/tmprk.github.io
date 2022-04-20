@@ -65,6 +65,10 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Projects"
   url = "/projects/"
   weight = 4
+  [[menu.nav]]
+  name = "Psych 499"
+  url = "psychopy-docs/docs/programs/line-in-shape-js/"
+  weight = 5
 
 [markup]
   [markup.goldmark]
